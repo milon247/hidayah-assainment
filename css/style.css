@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+background-color: #242529;
+
+width: 90%;
+
+margin-left: 5%;
+}
+.header-content{
+
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+width: 50%;
+}
+nav{
+
+width: 30%;
+
+float: right;
+
+padding-top: 15px;
+
+padding-bottom: 15px;
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+}
+nav ul li{
+    text-transform: capitalize;
+    float: left;
+    color: #fff;
+    margin-right: 20px;
+    font-size: 30px;
+}
+.content{
+
+width: 50%;
+
+margin: auto;
+}
+.content img{
+    width: 100%;
+    margin-top: 30px;
+}
+.main-content{
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 50px;
+}
+.left-content{
+
+float: left;
+
+width: 30%;
+
+text-align: center;
+}
+.left-content img{
+
+}
+.left-content h1{
+
+margin-top: 10px;
+}
+.left-content p{
+    
+margin-top: 20px;
+}
+.middle-content{
+
+float: left;
+
+width: 30%;
+
+margin-left: 5%;
+
+text-align: center;
+}
+.middle-content img{
+
+}
+.middle-content h1{
+
+margin-top: 20px;
+}
+.middle-content p{
+
+margin-top: 10px;
+}
+.right-content{
+
+float: right;
+
+width: 30%;
+
+text-align: center;
+}
+.right-content img{
+
+}
+.right-content h1{
+
+margin-top: 10px;
+}
+.right-content p{
+
+margin-top: 20px;
+}
+.feature{
+
+overflow: hidden;
+
+width: 90%;
+
+margin: auto;
+
+margin-top: 50px;
+}
+.feature-one{
+
+float: left;
+
+width: 48%;
+}
+.feature-one h1{
+
+text-align: center;
+}
+.feature-one p{
+
+margin-top: 20px;
+}
+.feature-two{float: right;width: 48%;text-align: center;}
+.feature-two h1{
+}
+.feature-two p{
+    
+margin-top: 20px;
+}
+.last-content{
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 100px;
+
+margin-bottom: 100px;
+}
+.last-content1{
+
+float: left;
+
+width: 48%;
+}
+.last-content1 img{
+
+width: 100%;
+
+border: solid 1px black;
+}
+.last-content2{
+
+width: 48%;
+
+float: right;
+
+border: solid 1px black;
+}
+.last-content2 img{
+    
+width: 100%;
+}
+footer{
+
+padding-top: 30px;
+
+background-color: #242529;
+
+overflow: hidden;
+}
+.footer-icon{
+
+overflow: hidden;
+
+margin-left: 47%;
+}
+.footer-icon1{
+    float: left;
+}
+.footer-icon2{
+
+float: left;
+}
+.footer-icon3{
+
+float: left;
+}
+.footer-icon4{
+
+float: left;
+}
+.footer-icon5{
+    
+float: left;
+}
+.copy-right{
+}
+.copy-right p{
+
+color: #868586;
+
+padding-top: 11px;
+}
+p{
+    color: #007ACC;
+    text-align: center;
+    padding-bottom: 20px;
+}
+p span{
+    color: #868586;
+}
